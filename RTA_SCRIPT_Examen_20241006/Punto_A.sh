@@ -1,4 +1,4 @@
-#!BIM/BASH
+#!/BIN/BASH
 
 echo "Aca estoy creando la estructura de directorio"
 
